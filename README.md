@@ -10,5 +10,5 @@ in this and previous projects I used esp32 and RFID MFRC522
 > SS/SDA (Slave Select/Data):GPIO 5.
 > RST (Reset): GPIO 22.
 
-
+THANKS FOR VIEWING :)
 
